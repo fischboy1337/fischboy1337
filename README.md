@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fischboy1337&label=Profile%20views&color=0e75b6&style=flat" alt="fischboy1337" /> </p>
 
-- 🔭 I’m currently working on [Fischlauncher](https://www.fischboy.netlify.app)
+- 🔭 I’m currently working on [Fischlauncher](https://fischboy.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
