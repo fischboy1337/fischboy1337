@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fischboy1337&label=Profile%20views&color=0e75b6&style=flat" alt="fischboy1337" /> </p>
 
-- 🔭 My Website [Fischboy](https://fischboy.netlify.app)
-- ⚙️ Website Obfuscator [FischMinify](https://github.com/fischboy1337/fischminify)
+- 🔭 My Website [Fischboy](https://fischboy.eu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
